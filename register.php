@@ -30,7 +30,7 @@ include("inc/header.php");
 			<!--<span id="logo"></span>-->
 
 			<div id="logo-group">
-				<span id="logo"> <img src="<?php echo ASSETS_URL; ?>/img/logo.png" alt="SmartAdmin"> </span>
+				<span > <img src="<?php echo ASSETS_URL; ?>/img/logo.png" alt="SmartAdmin"> </span>
 
 				<!-- END AJAX-DROPDOWN -->
 			</div>
@@ -46,6 +46,7 @@ include("inc/header.php");
 
 				<div class="row">
 					<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7 hidden-xs hidden-sm">
+						<!--
 						<h1 class="txt-color-red login-header-big">SmartAdmin</h1>
 						<div class="hero">
 
@@ -75,7 +76,7 @@ include("inc/header.php");
 								</p>
 							</div>
 						</div>
-
+						-->
 					</div>
 					<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5">
 						<div class="well no-padding">
@@ -166,6 +167,7 @@ include("inc/header.php");
 							</form>
 
 						</div>
+						<!--
 						<p class="note text-center">*FREE Registration ends on October 2015.</p>
 						<h5 class="text-center">- Or sign in using -</h5>
 						<ul class="list-inline text-center">
@@ -179,6 +181,7 @@ include("inc/header.php");
 								<a href="javascript:void(0);" class="btn btn-warning btn-circle"><i class="fa fa-linkedin"></i></a>
 							</li>
 						</ul>
+						-->
 					</div>
 				</div>
 			</div>

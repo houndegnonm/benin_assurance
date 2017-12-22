@@ -30,12 +30,12 @@ include("inc/header.php");
 	<!--<span id="logo"></span>-->
 
 	<div id="logo-group">
-		<span id="logo"><img src="<?php echo ASSETS_URL; ?>/img/logo.png" alt="SmartAdmin">Assurances du Benin</span>
-
+		<span ><img src="<?php echo ASSETS_URL; ?>/img/logo.png" alt="SmartAdmin"></span>
+		
 		<!-- END AJAX-DROPDOWN -->
 	</div>
 
-	<!-- <span id="extr-page-header-space"> <span class="hidden-mobile hiddex-xs">Need an account?</span> <a href="<?php echo APP_URL; ?>/register.php" class="btn btn-danger">Create account</a> </span> -->
+	<span id="extr-page-header-space"> <span class="hidden-mobile hiddex-xs">Need an account? </span> <a href="<?php echo APP_URL; ?>/register.php" class="btn btn-danger">Send a Request </a> </span>
 
 </header>
 
@@ -46,26 +46,26 @@ include("inc/header.php");
 
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-8 hidden-xs hidden-sm">
-				<h1 class="txt-color-red login-header-big">Mettez vos données au travail, <br>parce que c'est ce que vous en faites qui compte.</h1>
+				<h1 class="txt-color-red login-header-big">Benin Asurance,<br> met vos données au travail, <br>parce que c'est ce que vous en faites qui compte.</h1>
 				<div class="hero">
 
 					<div class="pull-left login-desc-box-l">
 						<h4 class="paragraph-header"></h4>
 						<div class="login-app-icons">
-							<a href="javascript:void(0);" class="btn btn-danger btn-sm">Frontend Template</a>
-							<a href="javascript:void(0);" class="btn btn-danger btn-sm">Find out more</a>
+							<!-- <a href="javascript:void(0);" class="btn btn-danger btn-sm">Frontend Template</a> -->
+							<!--  <a href="javascript:void(0);" class="btn btn-danger btn-sm">Find out more</a> -->
 						</div>
 					</div>
 					
-					<img src="<?php echo ASSETS_URL; ?>/img/demo/iphoneview.png" class="pull-right display-image" alt="" style="width:210px">
+					<!--   <img src="<?php echo ASSETS_URL; ?>/img/demo/iphoneview.png" class="pull-right display-image" alt="" style="width:210px"> -->
 
 				</div>
-
+				<!-- 
 				<div class="row">
 					<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-						<h5 class="about-heading">About SmartAdmin - Are you up to date?</h5>
+						<h5 class="about-heading">What is Benin Inssurance?</h5>
 						<p>
-							Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.
+							Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa. 
 						</p>
 					</div>
 					<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
@@ -75,7 +75,7 @@ include("inc/header.php");
 						</p>
 					</div>
 				</div>
-
+				-->
 			</div>
 			<div class="col-xs-12 col-sm-12 col-md-5 col-lg-4">
 				<div class="well no-padding">

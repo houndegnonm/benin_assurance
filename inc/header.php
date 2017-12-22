@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<!--<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">-->
 
-		<title> <?php echo $page_title != "" ? $page_title." - " : ""; ?>SmartAdmin </title>
+		<title> <?php echo $page_title != "" ? $page_title." - Connexion des assurances du Benin" : "Connexion des assurances du Benin"; ?> </title>
 		<meta name="description" content="">
 		<meta name="author" content="">
 
@@ -96,7 +96,7 @@
 					<div id="logo-group">
 
 						<!-- PLACE YOUR LOGO HERE -->
-						<span id="logo"> <img src="<?php echo ASSETS_URL; ?>/img/logo.png" alt="SmartAdmin"> </span>
+						<span > <img src="<?php echo ASSETS_URL; ?>/img/logo.png" alt="SmartAdmin">  </span>
 						<!-- END LOGO PLACEHOLDER -->
 
 						<!-- Note: The activity badge color changes when clicked and resets the number to 0
