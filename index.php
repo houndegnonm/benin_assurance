@@ -46,7 +46,7 @@ include("inc/header.php");
 
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-7 col-lg-8 hidden-xs hidden-sm">
-				<h1 class="txt-color-red login-header-big">Benin Asurance,<br> met vos données au travail, <br>parce que c'est ce que vous en faites qui compte.</h1>
+				<h1 class="txt-color-red login-header-big">Benin Assurance,<br> Met vos données au travail, <br>Parce que c'est ce que vous en faites qui compte.</h1>
 				<div class="hero">
 
 					<div class="pull-left login-desc-box-l">

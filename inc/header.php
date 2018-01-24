@@ -39,12 +39,15 @@
 
 
 		<!-- Demo purpose only: goes with demo.js, you can delete this css when designing your own WebApp -->
-		<link rel="stylesheet" type="text/css" media="screen" href="<?php echo ASSETS_URL; ?>/css/demo.min.css">
+		<!--  <link rel="stylesheet" type="text/css" media="screen" href="<?php echo ASSETS_URL; ?>/css/demo.min.css"> -->
 
 		<!-- FAVICONS -->
+		<link rel="icon" type="image/png" href="<?php echo ASSETS_URL; ?>/img/favicon/favicon.png" />
+		<!-- 
 		<link rel="shortcut icon" href="<?php echo ASSETS_URL; ?>/img/favicon/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="<?php echo ASSETS_URL; ?>/img/favicon/favicon.ico" type="image/x-icon">
-
+		 -->
+		 
 		<!-- GOOGLE FONT -->
 		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,300,400,700">
 
@@ -96,7 +99,7 @@
 					<div id="logo-group">
 
 						<!-- PLACE YOUR LOGO HERE -->
-						<span > <img src="<?php echo ASSETS_URL; ?>/img/logo.png" alt="SmartAdmin">  </span>
+						<span > <img src="<?php echo ASSETS_URL; ?>/img/logo2.png" alt="SmartAdmin">  </span>
 						<!-- END LOGO PLACEHOLDER -->
 
 						<!-- Note: The activity badge color changes when clicked and resets the number to 0
